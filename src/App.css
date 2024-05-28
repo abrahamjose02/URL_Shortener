@@ -88,6 +88,10 @@
   color: var(--primary-color);
 }
 
+.shorten{
+  display: flex;
+}
+
 /* Background Animate */
 
 @keyframes animate {
